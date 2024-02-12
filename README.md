@@ -25,7 +25,7 @@ We aim to classify network connections into normal traffic and various types of 
 
 ## Dependencies
 
--   Python 3.x
+-   Python 
 -   scikit-learn
 -   pandas
 -   matplotlib
