@@ -4,18 +4,18 @@ This project is focused on a Python-based machine learning project which aims to
 
 ## Table of Contents
 
--   [Project Overview](#project_overview)
--   [Key Features](#features)
+-   [Project Overview](#project)
+-   [Features](#features)
 -   [Dependencies](#dependencies)
--   [NSL-KDD Dataset](#dataset)
+-   [Dataset](#dataset)
 -   [Results](#results)
--   [Usage Instructions](#usageinstructions)
+-   [Usage ](#usage)
 
 ## Project Overview
 
 We aim to classify network connections into normal traffic and various types of attacks using SVM classifiers. The project demonstrates thorough data preprocessing, model training with SVMs using various hyperparameters, and a comprehensive evaluation of model performance.
 
-### Key Features
+### Features
 
 -   **NSL-KDD Dataset**: Utilizes the NSL-KDD dataset, which mitigates problems present in earlier datasets by avoiding duplicate records and providing a more balanced representation of network traffic.
 -   **Data Preprocessing**: Employs a custom Preprocessor class within a sklearn pipeline to apply scaling to numerical features and one-hot encoding to categorical features.
@@ -31,7 +31,7 @@ We aim to classify network connections into normal traffic and various types of 
 -   matplotlib
 -   numpy
 
-## NSL-KDD Dataset
+## Dataset
 
 The NSL-KDD dataset is a benchmark dataset for network intrusion detection systems, containing a mix of 41 different features, with labeled data indicating normal or attack traffic.
 
