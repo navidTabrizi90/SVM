@@ -39,7 +39,7 @@ The NSL-KDD dataset is a benchmark dataset for network intrusion detection syste
 
 The SVM models are tested, with training accuracy reaching as high as 99.97% and test accuracy ranging from approximately 81% to 85%.
 
-<div align="center"> ![result ](./Screenshot%20result.jpg) </div>
+<div align="center"> <img src="Screenshot result.jpg"> </div>
 
 ## Usage
 
