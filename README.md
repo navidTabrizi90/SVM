@@ -35,7 +35,8 @@ We aim to classify network connections into normal traffic and various types of 
 
 The NSL-KDD dataset is a benchmark dataset for network intrusion detection systems, containing a mix of 41 different features, with labeled data indicating normal or attack traffic add we got the dataset columns name from this site: <a href="https://www.researchgate.net/figure/List-of-features-of-NSL-KDD-dataset_tbl1_325709588">DataSet</a>
 
-<div align="center"> <img src="List-of-features-of-NSL-KDD-dataset.png> </div>
+<div align="center"> <img src="List-of-features-of-NSL-KDD-dataset.png"> </div>
+
 ## Results
 
 The SVM models are tested, with training accuracy reaching as high as 99.97% and test accuracy ranging from approximately 81% to 85%.
